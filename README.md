@@ -1,0 +1,5 @@
+# Sales Data Analysis for a Cookie Company
+https://app.powerbi.com/view?r=eyJrIjoiMTA2NmUyMmUtOWNkYS00ZDAyLWFhY2YtZjQ1NGQ4MzkwNDliIiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9
+
+# Profitability Analysis
+https://app.powerbi.com/view?r=eyJrIjoiODgzY2Y1ZDgtZWM4Zi00NzUyLWI3YzYtN2Y1ODUzZGUwNjIzIiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9
